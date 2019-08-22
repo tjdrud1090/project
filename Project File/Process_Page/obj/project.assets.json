@@ -845,11 +845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bit\\Desktop\\Process_Page (4)\\Process_Page\\Process_Page_Change.csproj",
+      "projectUniqueName": "D:\\BitProject\\Project File\\Process_Page\\Process_Page_Change.csproj",
       "projectName": "Process_Page_Change",
-      "projectPath": "C:\\Users\\bit\\Desktop\\Process_Page (4)\\Process_Page\\Process_Page_Change.csproj",
+      "projectPath": "D:\\BitProject\\Project File\\Process_Page\\Process_Page_Change.csproj",
       "packagesPath": "C:\\Users\\bit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bit\\Desktop\\Process_Page (4)\\Process_Page\\obj\\",
+      "outputPath": "D:\\BitProject\\Project File\\Process_Page\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
