@@ -9,7 +9,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using Process_Page.TranslationDemo;
 using Process_Page.Util;
 using System;
 using System.Diagnostics;
